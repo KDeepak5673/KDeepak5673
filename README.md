@@ -7,8 +7,8 @@
 📚 My interests include:
 
 * Cloud Computing
-* Web Development
-* Automation
+* Web Development      
+* Java Developer
 * Open Source Contribution
 
   
