@@ -48,12 +48,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats  
+## 📊 LeetCode Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=KDeepak5673&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>  
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KDeepak5673&theme=dark&hide_border=false"/>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDeepak5673&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
+![Leetcode Stats](https://leetcard.jacoblin.cool/Deepakkumar5673?ext=heatmap)
 
 ---
