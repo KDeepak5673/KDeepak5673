@@ -1,6 +1,6 @@
 # 💫 About Me  
 
-<img align="right" alt="Developer GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+<img align="right" alt="Developer GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px"/>
 
 🎓 I’m a student at **VIT Bhopal University**, pursuing a **Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE)** with a specialization in **Cloud Computing and Automation**.  
 
